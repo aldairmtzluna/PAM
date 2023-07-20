@@ -1,9 +1,4 @@
 <?php
-   /* $DB_host = "10.38.10.25";
-    $DB_user = "myudvpam";
-    $DB_pass = "&LiD6ZxiGs6xiiU";
-    $DB_name = "pam";
-    $DB_port = "3306";*/
 
     $DB_host = "localhost";
     $DB_user = "root";
